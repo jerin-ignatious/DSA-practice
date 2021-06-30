@@ -21,7 +21,7 @@ typedef unsigned long long int ull;
 using namespace std;
 ll a[1000];
 
-//Function to swap two numbers on the array
+//Function to swap two numbers in the array
 
 void swap(ll first, ll second){
     if(a[first] != a[second]){
